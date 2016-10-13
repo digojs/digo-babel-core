@@ -1,0 +1,20 @@
+{
+    "name": "digo-babel-core",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-babel",
+    "description": "digo 插件：使用 Babel 编译 ES6/JSX",
+    "keywords": [
+        "digo plugin",
+        "babel",
+        "es6",
+        "jsx"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "babel-core": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
